@@ -6,7 +6,7 @@ Collection of AI agent projects
   * https://www.youtube.com/watch?v=Q9zv369Ggfk
 
 ## Information Search Agent
-* Search and summary agent]
+* Search and summary agent
   * https://www.youtube.com/watch?v=ogQUlS7CkYA 
     * https://github.com/JayZeeDesign/researcher-gpt
 
